@@ -11,7 +11,6 @@ Table des matières
     :numbered:
     :maxdepth: 2
 
-    installation
 
 
 Indices and tables
